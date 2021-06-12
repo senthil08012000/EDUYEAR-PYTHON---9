@@ -5,11 +5,10 @@ count=0
 for i in range(year,2021):
     count+=1
 print("your age is :",count)
-#SIMPLE CALCULATOR
 print()
 print()
 print("---welcome to simple calculator---")
-
+#SIMPLE CALCULATOR
 num1=int(input("enter the no 1: "))
 num2=int(input("enter the no 2: "))
 addition=num1+num2
