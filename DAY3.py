@@ -7,8 +7,8 @@ for i in range(year,2021):
 print("your age is :",count)
 print()
 print()
-print("---welcome to simple calculator---")
 #SIMPLE CALCULATOR
+print("---welcome to simple calculator---")
 num1=int(input("enter the no 1: "))
 num2=int(input("enter the no 2: "))
 addition=num1+num2
