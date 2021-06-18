@@ -7,8 +7,6 @@ for i in range(n):
 print(lst)
 print()
 print()
-#lst=[121,232,45]
-#n=len(lst)
 #count of even and odd numbers
 evencount=0
 oddcount=0
